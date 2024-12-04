@@ -251,6 +251,7 @@ U+20	fAsele_
 ق.م	q::abl_az_:milAd	$only
 ب‌م	ba:?d_az_:milAd	$only
 ب.م	ba:?d_az_:milAd	$only
+(ع) alajhe_:salAm $only
 
 
 :U+029	namAde-tSehReje-SAd	$only
@@ -4590,6 +4591,7 @@ U+20	fAsele_
 حلواارده	halvAaRde
 حلواشکری	halvASekaRi
 حلویات	halavijAt
+حله     halle:
 حلیت	hellijat
 حلیه	helje
 حماقت	hemAq1at
@@ -10115,7 +10117,10 @@ U+20	fAsele_
 میعاد	mi?Ad
 میعان	maja?An
 میقان	mejq1An
-میل	me:jl
+مِیل	me:jl
+مِیلی   me:jli
+میلی   mili
+میل    mil 
 میلان	milAn
 میلسنگ	milsang
 میله	mile:
@@ -11743,6 +11748,7 @@ U+20	fAsele_
 پلنوم	pelenom
 پلنگ	'palang
 پله	pelle:
+پَله pale
 پلو	polo
 پلوتارک	polotARk
 پلوتون	poloton
@@ -12448,7 +12454,7 @@ U+20	fAsele_
 کرنومتر	koRnometR
 کره	koRe:
 کُره   koRe:
-کَره   kare:
+کَره   kaRe:
 کروات	kRovAt
 کرواتی	kRovAti
 کرواسی	koRovAsi
@@ -13054,6 +13060,7 @@ U+20	fAsele_
 گلندام	golandAm
 گلنگدن	galangadan
 گله	galle:
+گِله gele
 گلو	galu
 گلوبول	golobul
 گلوبولین	golobulin
@@ -13159,7 +13166,10 @@ U+20	fAsele_
 گوشبر	guSboR
 گوشت	guSt
 گوشتکوب	guStkub
-گون	gavan
+گون	gu:n
+گَوَن gavan
+گَون gavan
+له  leh $only
 گونه	gune:
 گونی	guni
 گوه	goh
